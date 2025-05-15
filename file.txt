@@ -1,2 +1,1 @@
 demo remote file
-line 2 in remote file
